@@ -6,9 +6,9 @@ To see the final result, click [here](https://culturama-nu-beryl.vercel.app/).
 
 ## Used tools:
 
-* HTML
 * CSS
-* Flexbox
+* FlexBox
+* Grid
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
